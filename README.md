@@ -1,5 +1,5 @@
 
-# Power BI Sales Analysis and Forecasting Project
+# Sales Analysis and Forecasting Project
 
 ## Project Overview
 This project utilizes Power BI to conduct an in-depth analysis of sales data, providing valuable insights and forecasts that drive strategic decision-making. Below are the detailed components of the project:
